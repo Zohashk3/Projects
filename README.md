@@ -1,2 +1,2 @@
 # Projects
-SQL , WEBSCRAPPING , SUPERVISED MACHINE LEARNING PROJECT
+Supervised Machine Learning
